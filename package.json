@@ -1,0 +1,19 @@
+{
+  "name": "plethora-atlas-contrib-do",
+  "version": "0.1.0",
+  "description": "Digital Ocean utilities for the Plethora Atlas Project",
+  "main": "do.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostasx/plethora-atlas-contrib-do.git"
+  },
+  "author": "kostasx <minaidisk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostasx/plethora-atlas-contrib-do/issues"
+  },
+  "homepage": "https://github.com/kostasx/plethora-atlas-contrib-do#readme"
+}
